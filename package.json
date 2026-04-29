@@ -1,0 +1,14 @@
+{
+  "name": "shopp-app",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
